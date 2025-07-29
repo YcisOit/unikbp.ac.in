@@ -82,9 +82,9 @@ function Footer() {
           {/* 🔹 CONTACT Section */}
           <div className="w-full md:w-70 text-center md:text-left">
             <h4 className="text-lg font-bold border-b-2 border-white pb-2 mb-1">CONTACT</h4>
-            <p>📞 Phone: <span className="text-blue-400">02162 233 857</span></p>
-            <p>📍 Address: Karmaveer Samadhi Parisar, Satara</p>
-            <p>✉ Email: <a href="mailto:secretary@rayatshikshan.edu" className="text-blue-400">secretary@rayatshikshan.edu</a></p>
+            <p>📞 Phone: <span className="text-blue-400">02162 229 907</span></p>
+            <p>📍 Address: Powai Naka, Satara, Maharashtra, India</p>
+            <p>✉ Email: <a href="mailto:secretary@rayatshikshan.edu" className="text-blue-400">registrar@unikbp.ac.in</a></p>
 
             {/* 🔹 COLLEGES Section */}
             <div className="w-full md:w-70 mt-2 text-center md:text-left">

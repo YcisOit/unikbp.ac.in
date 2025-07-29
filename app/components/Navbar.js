@@ -297,7 +297,7 @@ const Navbar = () => {
     {/* Students' Grievance Redressal Committee */}
     <li className="border-t border-white">
       <Link href="/SGRC" className="block px-3 py-2 rounded-md hover:bg-black transition">
-        Students' Grievance Redressal Committee (SGRC)
+        Students Grievance Redressal Committee (SGRC)
       </Link>
     </li>
     <li className="border-t border-white my-1"></li>
